@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "dist",
+    "outDir": "dist",
+    "module": "ESNext",
+    "target": "ES2019",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  },
+  "include": ["src"]
+}
